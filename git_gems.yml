@@ -38,4 +38,10 @@
 - :gem: sinatra_warden.old
   :url: git://github.com/jsmestad/sinatra_warden.git
 - :gem: w3c_validators
-  :url: http://github.com/alexdunae/w3c_validators.git
+  :url: git://github.com/alexdunae/w3c_validators.git
+- :gem: ripl
+  :url: git://github.com/cldwalker/ripl.git
+- :gem: bond
+  :url: git://github.com/cldwalker/bond.git
+- :gem: showoff
+  :url: git://github.com/schacon/showoff.git
