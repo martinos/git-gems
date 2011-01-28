@@ -3,30 +3,26 @@
   :url: git://github.com/cldwalker/boson.git
 - :gem: gitfilepublisher
   :url: git@github.com:martinos/gitfilepublisher.git
-- :gem: guides
-  :url: git@github.com:martinos/guides.git
 - :gem: haml
-  :url: https://github.com/nex3/haml.git
+  :url: git://github.com/nex3/haml.git
 - :gem: heroku-docs
   :url: git://github.com/heroku/heroku-docs.git
 - :gem: homebrew
-  :url: https://github.com/mxcl/homebrew.git
+  :url: git://github.com/mxcl/homebrew.git
 - :gem: irbfiles
-  :url: https://github.com/cldwalker/irbfiles.git
+  :url: git://github.com/cldwalker/irbfiles.git
 - :gem: json
-  :url: https://github.com/flori/json.git
+  :url: git://github.com/flori/json.git
 - :gem: martinos-vim
   :url: git@github.com:martinos/martinos-vim.git
 - :gem: nokogiri
-  :url: https://github.com/tenderlove/nokogiri.git
+  :url: git://github.com/tenderlove/nokogiri.git 
 - :gem: rack
   :url: git://github.com/rack/rack.git
-- :gem: rack-contrib
-  :url: git@github.com:martinos/rack-contrib.git
-- :gem: rack-contrib.old
-  :url: http://github.com/rack/rack-contrib.git
+- :gem  rack-contrib
+  :url: git://github.com/rack/rack-contrib.git
 - :gem: rack-validate
-  :url: git@github.com:martinos/rack-validate.git
+  :url: git://github.com/rack-validate.git
 - :gem: rails
   :url: git://github.com/rails/rails.git
 - :gem: scanty
@@ -34,9 +30,9 @@
 - :gem: sinatra
   :url: git://github.com/sinatra/sinatra.git
 - :gem: sinatra_warden
-  :url: git@github.com:martinos/sinatra_warden.git
-- :gem: sinatra_warden.old
   :url: git://github.com/jsmestad/sinatra_warden.git
+- :gem: sinatra_warden
+  :url: git://github.com/ratbeard/sinatra-warden.git
 - :gem: w3c_validators
   :url: git://github.com/alexdunae/w3c_validators.git
 - :gem: ripl
@@ -45,3 +41,9 @@
   :url: git://github.com/cldwalker/bond.git
 - :gem: showoff
   :url: git://github.com/schacon/showoff.git
+- :gem: thor
+  :url: git://github.com/wycats/thor.git
+- :gem: passenger
+  :url: git://github.com/FooBarWidget/passenger.git
+- :gem: xml-simple
+  :url: https://github.com/maik/xml-simple.git
